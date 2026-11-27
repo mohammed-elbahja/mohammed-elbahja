@@ -1,10 +1,10 @@
 
-## Current repositories
+## Current Repositories
 
 - **Systems Engineering** - [Contact via LinkedIn](https://www.linkedin.com/in/melbahja/) 
-    * [distributed-systems-concepts](https://github.com/mohammed-elbahja/distributed-systems-concepts) - WIP | Available for architecture and implementation review upon request. 
-    * [streaming-observability-lab](https://github.com/mohammed-elbahja/streaming-observability-lab) - WIP | Available for architecture and implementation review upon request.
-    * [agentic-ai-systems-concepts](https://github.com/mohammed-elbahja/agentic-ai-systems-concepts) - WIP | Available for architecture and implementation review upon request.
+    * [distributed-systems-concepts](https://github.com/mohammed-elbahja/distributed-systems-concepts) - WIP | Distributed platform exploring workload orchestration, resource allocation, admission control, execution scheduling, and fault tolerance. Available for architecture and implementation review upon request. 
+    * [streaming-observability-lab](https://github.com/mohammed-elbahja/streaming-observability-lab) - WIP | Streaming infrastructure for investigating distributed data processing, operational metrics, backpressure, and performance bottlenecks. Available for architecture and implementation review upon request.
+    * [agentic-ai-systems-concepts](https://github.com/mohammed-elbahja/agentic-ai-systems-concepts) - WIP | Framework exploring agent orchestration, workflow execution, tool integration, and coordinated AI systems. Available for architecture and implementation review upon request.
     * [edge-telemetry](https://github.com/mohammed-elbahja/edge-telemetry) - A Rust-based edge telemetry and networking project exploring binary protocols, TCP communication, device simulation, and telemetry processing.
     * [compute-engine](https://github.com/mohammed-elbahja/compute-engine) - A Rust-based project exploring high-performance computing, memory efficiency, concurrent and parallel execution, workload scheduling, and performance optimization.
 
