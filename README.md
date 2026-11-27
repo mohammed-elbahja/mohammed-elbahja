@@ -1,21 +1,21 @@
 
 ## Current repositories
 
-- **Systems Engineering** 
-    * [distributed-systems-concepts](https://github.com/mohammed-elbahja/distributed-systems-concepts) - (WIP | Available for architecture and implementation review upon request)
-    * [streaming-observability-lab](https://github.com/mohammed-elbahja/streaming-observability-lab) - (WIP | Available for architecture and implementation review upon request.)
-    * [agentic-ai-systems-concepts](https://github.com/mohammed-elbahja/agentic-ai-systems-concepts) - (WIP | Available for architecture and implementation review upon request.)
+- **Systems Engineering** - [Contact via LinkedIn](https://www.linkedin.com/in/melbahja/) 
+    * [distributed-systems-concepts](https://github.com/mohammed-elbahja/distributed-systems-concepts) - WIP | Available for architecture and implementation review upon request. 
+    * [streaming-observability-lab](https://github.com/mohammed-elbahja/streaming-observability-lab) - WIP | Available for architecture and implementation review upon request.
+    * [agentic-ai-systems-concepts](https://github.com/mohammed-elbahja/agentic-ai-systems-concepts) - WIP | Available for architecture and implementation review upon request.
     * [edge-telemetry](https://github.com/mohammed-elbahja/edge-telemetry) - A Rust-based edge telemetry and networking project exploring binary protocols, TCP communication, device simulation, and telemetry processing.
     * [compute-engine](https://github.com/mohammed-elbahja/compute-engine) - A Rust-based project exploring high-performance computing, memory efficiency, concurrent and parallel execution, workload scheduling, and performance optimization.
 
-- **Agentic AI Systems** 
+- **Agentic AI Systems**  - [Contact via LinkedIn](https://www.linkedin.com/in/melbahja/)
     * [Patient Diagnostic Assistant](https://github.com/mohammed-elbahja/patient-diagnostic-assistant) - A healthcare-oriented software project exploring AI-assisted diagnostic workflows.
-    * [automated-care-plan-generator](https://github.com/mohammed-elbahja/automated-care-plan-generator) (Upcoming | will be built on top of [agentic-ai-systems-concepts](https://github.com/mohammed-elbahja/agentic-ai-systems-concepts))
-    * [medication-recommendation-optimizer](https://github.com/mohammed-elbahja/medication-recommendation-optimizer) (Upcoming | will be built on top of [agentic-ai-systems-concepts](https://github.com/mohammed-elbahja/agentic-ai-systems-concepts))
-    * [predictive-monitoring-of-vital-signs](https://github.com/mohammed-elbahja/predictive-monitoring-of-vital-signs) (Upcoming | will be built on top of [agentic-ai-systems-concepts](https://github.com/mohammed-elbahja/agentic-ai-systems-concepts))
-    * [multi-modal-patient-data-routing-workflow](https://github.com/mohammed-elbahja/multi-modal-patient-data-routing-workflow) (Upcoming | will be built on top of [agentic-ai-systems-concepts](https://github.com/mohammed-elbahja/agentic-ai-systems-concepts))
+    * [automated-care-plan-generator](https://github.com/mohammed-elbahja/automated-care-plan-generator) Upcoming | will be built on top of [agentic-ai-systems-concepts](https://github.com/mohammed-elbahja/agentic-ai-systems-concepts)
+    * [medication-recommendation-optimizer](https://github.com/mohammed-elbahja/medication-recommendation-optimizer) Upcoming | will be built on top of [agentic-ai-systems-concepts](https://github.com/mohammed-elbahja/agentic-ai-systems-concepts)
+    * [predictive-monitoring-of-vital-signs](https://github.com/mohammed-elbahja/predictive-monitoring-of-vital-signs) Upcoming | will be built on top of [agentic-ai-systems-concepts](https://github.com/mohammed-elbahja/agentic-ai-systems-concepts)
+    * [multi-modal-patient-data-routing-workflow](https://github.com/mohammed-elbahja/multi-modal-patient-data-routing-workflow) Upcoming | will be built on top of [agentic-ai-systems-concepts](https://github.com/mohammed-elbahja/agentic-ai-systems-concepts)
 
-- **Misc**
+- **Misc** - [Contact via LinkedIn](https://www.linkedin.com/in/melbahja/)
     * [configuration-rs](https://github.com/mohammed-elbahja/configuration-rs) - A Rust-native configuration library inspired by Lightbend Config
 
 ## About Me
