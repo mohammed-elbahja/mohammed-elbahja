@@ -1,31 +1,31 @@
+# Mohammed El Bahja
+**Senior/Staff Software Engineer | Software Architect**  
+Distributed Systems - Data Infrastructure - Systems Engineering - Agentic AI  
+[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melbahja/)
 
-## Current Repositories
+## Engineering Portfolio
+### Distributed Systems & Computing Infrastructure   
+- [distributed-systems-concepts](https://github.com/mohammed-elbahja/distributed-systems-concepts) - WIP | Distributed platform exploring workload orchestration, resource allocation, admission control, execution scheduling, and fault tolerance. Available for architecture and implementation review upon request. 
+- [streaming-observability-lab](https://github.com/mohammed-elbahja/streaming-observability-lab) - WIP | Streaming infrastructure for investigating distributed data processing, operational metrics, backpressure, and performance bottlenecks. Available for architecture and implementation review upon request.
+### Systems Programming & Edge Computing
+- [edge-telemetry](https://github.com/mohammed-elbahja/edge-telemetry) - A Rust-based edge telemetry and networking project exploring binary protocols, TCP communication, device simulation, and telemetry processing.
+- [compute-engine](https://github.com/mohammed-elbahja/compute-engine) - A Rust-based project exploring high-performance computing, memory efficiency, concurrent and parallel execution, workload scheduling, and performance optimization.
+### Agentic AI Engineering
+- [agentic-ai-systems-concepts](https://github.com/mohammed-elbahja/agentic-ai-systems-concepts) - WIP | Framework exploring agent orchestration, workflow execution, tool integration, and coordinated AI systems. Available for architecture and implementation review upon request.
+### Applied AI & Industrial Systems
+### Applied AI & Energy Management Systems
+### Applied AI & Maritime Systems
+### Applied AI & Healthcare Systems
+- [Patient Diagnostic Assistant](https://github.com/mohammed-elbahja/patient-diagnostic-assistant) - A healthcare-oriented software project exploring AI-assisted diagnostic workflows.
+- [automated-care-plan-generator](https://github.com/mohammed-elbahja/automated-care-plan-generator) Upcoming Initiative | will be built on top of [agentic-ai-systems-concepts](https://github.com/mohammed-elbahja/agentic-ai-systems-concepts)
+- [medication-recommendation-optimizer](https://github.com/mohammed-elbahja/medication-recommendation-optimizer) Upcoming Initiative | will be built on top of [agentic-ai-systems-concepts](https://github.com/mohammed-elbahja/agentic-ai-systems-concepts)
+- [predictive-monitoring-of-vital-signs](https://github.com/mohammed-elbahja/predictive-monitoring-of-vital-signs) Upcoming Initiative | will be built on top of [agentic-ai-systems-concepts](https://github.com/mohammed-elbahja/agentic-ai-systems-concepts)
+- [multi-modal-patient-data-routing-workflow](https://github.com/mohammed-elbahja/multi-modal-patient-data-routing-workflow) Upcoming Initiative | will be built on top of [agentic-ai-systems-concepts](https://github.com/mohammed-elbahja/agentic-ai-systems-concepts)
 
-- **Systems Engineering** - [Contact via LinkedIn](https://www.linkedin.com/in/melbahja/) 
-    * [distributed-systems-concepts](https://github.com/mohammed-elbahja/distributed-systems-concepts) - WIP | Distributed platform exploring workload orchestration, resource allocation, admission control, execution scheduling, and fault tolerance. Available for architecture and implementation review upon request. 
-    * [streaming-observability-lab](https://github.com/mohammed-elbahja/streaming-observability-lab) - WIP | Streaming infrastructure for investigating distributed data processing, operational metrics, backpressure, and performance bottlenecks. Available for architecture and implementation review upon request.
-    * [agentic-ai-systems-concepts](https://github.com/mohammed-elbahja/agentic-ai-systems-concepts) - WIP | Framework exploring agent orchestration, workflow execution, tool integration, and coordinated AI systems. Available for architecture and implementation review upon request.
-    * [edge-telemetry](https://github.com/mohammed-elbahja/edge-telemetry) - A Rust-based edge telemetry and networking project exploring binary protocols, TCP communication, device simulation, and telemetry processing.
-    * [compute-engine](https://github.com/mohammed-elbahja/compute-engine) - A Rust-based project exploring high-performance computing, memory efficiency, concurrent and parallel execution, workload scheduling, and performance optimization.
+### Misc
+- [configuration-rs](https://github.com/mohammed-elbahja/configuration-rs) - A Rust-native configuration library inspired by Lightbend Config
 
-- **Agentic AI Systems**  - [Contact via LinkedIn](https://www.linkedin.com/in/melbahja/)
-    * [Patient Diagnostic Assistant](https://github.com/mohammed-elbahja/patient-diagnostic-assistant) - A healthcare-oriented software project exploring AI-assisted diagnostic workflows.
-    * [automated-care-plan-generator](https://github.com/mohammed-elbahja/automated-care-plan-generator) Upcoming | will be built on top of [agentic-ai-systems-concepts](https://github.com/mohammed-elbahja/agentic-ai-systems-concepts)
-    * [medication-recommendation-optimizer](https://github.com/mohammed-elbahja/medication-recommendation-optimizer) Upcoming | will be built on top of [agentic-ai-systems-concepts](https://github.com/mohammed-elbahja/agentic-ai-systems-concepts)
-    * [predictive-monitoring-of-vital-signs](https://github.com/mohammed-elbahja/predictive-monitoring-of-vital-signs) Upcoming | will be built on top of [agentic-ai-systems-concepts](https://github.com/mohammed-elbahja/agentic-ai-systems-concepts)
-    * [multi-modal-patient-data-routing-workflow](https://github.com/mohammed-elbahja/multi-modal-patient-data-routing-workflow) Upcoming | will be built on top of [agentic-ai-systems-concepts](https://github.com/mohammed-elbahja/agentic-ai-systems-concepts)
-
-- **Misc** - [Contact via LinkedIn](https://www.linkedin.com/in/melbahja/)
-    * [configuration-rs](https://github.com/mohammed-elbahja/configuration-rs) - A Rust-native configuration library inspired by Lightbend Config
-
-## About Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melbahja/)
-
-Senior/Staff Software Engineer and Software Architect with 15+ years of hands-on experience architecting, designing, implementing, and delivering complex enterprise software and data platforms across industrial IoT and energy management, healthcare and pharmaceuticals, and financial services. My engineering background includes distributed systems, event-driven architectures, real-time and batch data processing, cloud-native applications, systems integration, and enterprise software development.
-
-### Professional Engineering Experience
-
+## Professional Engineering Experience
 **Industrial IoT & Energy Management**
 - Industrial IoT and Energy Management Platforms
 - AVEVA Systems Integration
@@ -45,21 +45,30 @@ Senior/Staff Software Engineer and Software Architect with 15+ years of hands-on
 - Financial Data Provider Integration
 - Distributed Data Processing Systems
 
-### Technical Focus
+## Technical Expertise
+- Distributed Systems Architecture
+- Distributed Data Processing & Real-Time Analytics
+- Stream Processing & Data Engineering
+- Event-Driven & Reactive Systems
+- Multi-Tenant Architecture & Workload Management
+- Systems Programming & Edge Computing
+- Cloud-Native & Containerized Infrastructure
+- System Reliability, Resiliency & Observability
+- Agentic AI Systems & LLM Integration
 
-- Distributed Systems Architecture & Event-Driven Systems
-- Distributed Data Platforms and Analytics
-- Real-Time Operational Intelligence & Decision Support Systems
-- Enterprise Systems Architecture & Systems Integration
-- AI/ML Systems Engineering & Agentic AI Architectures
+## Technology Stack
+**Programming Languages:** Java, Scala, Rust, Python, TypeScript, SQL  
+**Distributed Computing & Stream Processing:** Apache Kafka, Apache Flink, Apache Spark, Apache Pekko, Akka  
+**Application Frameworks:** Spring Boot, Angular  
+**Data Infrastructure:** Relational Databases, NoSQL, Elasticsearch, Time-Series Databases  
+**Infrastructure & Deployment:** Docker, Kubernetes, OpenShift  
+**AI & Machine Learning:** LLM Integration, Retrieval-Augmented Generation (RAG), Model Context Protocol (MCP), Agentic AI  
 
-### GitHub Projects
+## Technical Discussions & Collaboration
+Projects are under active development and explore advanced software engineering concepts, architectural patterns, and practical implementation challenges.  
+Available for architecture and implementation reviews, technical demonstrations, engineering discussions, and professional collaboration upon request.  
+[Contact via LinkedIn](https://www.linkedin.com/in/melbahja/)
 
-This GitHub account contains personal engineering projects, technical experiments, and ongoing implementations exploring systems programming, distributed computing, data processing, and AI/ML. Projects are developed incrementally, with an emphasis on understanding underlying engineering concepts, implementation correctness, and practical system design.
-
-
-
-### Tech Stack
 <p> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/scala/scala-original.svg" alt="Scala" width="40"/>
