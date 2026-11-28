@@ -5,25 +5,40 @@ Distributed Systems - Data Infrastructure - Systems Engineering - Agentic AI
 
 ## Engineering Portfolio
 ### Distributed Systems & Computing Infrastructure   
-- [distributed-systems-concepts](https://github.com/mohammed-elbahja/distributed-systems-concepts) - WIP | Distributed platform exploring workload orchestration, resource allocation, admission control, execution scheduling, and fault tolerance. Available for architecture and implementation review upon request. 
-- [streaming-observability-lab](https://github.com/mohammed-elbahja/streaming-observability-lab) - WIP | Streaming infrastructure for investigating distributed data processing, operational metrics, backpressure, and performance bottlenecks. Available for architecture and implementation review upon request.
+- [distributed-systems-concepts](https://github.com/mohammed-elbahja/distributed-systems-concepts) - WIP  
+Distributed platform exploring workload orchestration, resource allocation, admission control, execution scheduling, and fault tolerance. Available for architecture and implementation review upon request. 
+- [streaming-observability-lab](https://github.com/mohammed-elbahja/streaming-observability-lab) - WIP  
+Streaming infrastructure for investigating distributed data processing, operational metrics, backpressure, and performance bottlenecks. Available for architecture and implementation review upon request.
 ### Systems Programming & Edge Computing
-- [edge-telemetry](https://github.com/mohammed-elbahja/edge-telemetry) - A Rust-based edge telemetry and networking project exploring binary protocols, TCP communication, device simulation, and telemetry processing.
-- [compute-engine](https://github.com/mohammed-elbahja/compute-engine) - A Rust-based project exploring high-performance computing, memory efficiency, concurrent and parallel execution, workload scheduling, and performance optimization.
+- [edge-telemetry](https://github.com/mohammed-elbahja/edge-telemetry)  
+A Rust-based edge telemetry and networking project exploring binary protocols, TCP communication, device simulation, and telemetry processing.
+- [compute-engine](https://github.com/mohammed-elbahja/compute-engine)  
+A Rust-based project exploring high-performance computing, memory efficiency, concurrent and parallel execution, workload scheduling, and performance optimization.
 ### Agentic AI Engineering
-- [agentic-ai-systems-concepts](https://github.com/mohammed-elbahja/agentic-ai-systems-concepts) - WIP | Framework exploring agent orchestration, workflow execution, tool integration, and coordinated AI systems. Available for architecture and implementation review upon request.
+- [agentic-ai-systems-concepts](https://github.com/mohammed-elbahja/agentic-ai-systems-concepts) - WIP  
+Framework exploring agent orchestration, workflow execution, tool integration, and coordinated AI systems. Available for architecture and implementation review upon request.
 ### Applied AI & Industrial Systems
 ### Applied AI & Energy Management Systems
 ### Applied AI & Maritime Systems
 ### Applied AI & Healthcare Systems
-- [Patient Diagnostic Assistant](https://github.com/mohammed-elbahja/patient-diagnostic-assistant) - A healthcare-oriented software project exploring AI-assisted diagnostic workflows.
-- [automated-care-plan-generator](https://github.com/mohammed-elbahja/automated-care-plan-generator) Upcoming Initiative | will be built on top of [agentic-ai-systems-concepts](https://github.com/mohammed-elbahja/agentic-ai-systems-concepts)
-- [medication-recommendation-optimizer](https://github.com/mohammed-elbahja/medication-recommendation-optimizer) Upcoming Initiative | will be built on top of [agentic-ai-systems-concepts](https://github.com/mohammed-elbahja/agentic-ai-systems-concepts)
-- [predictive-monitoring-of-vital-signs](https://github.com/mohammed-elbahja/predictive-monitoring-of-vital-signs) Upcoming Initiative | will be built on top of [agentic-ai-systems-concepts](https://github.com/mohammed-elbahja/agentic-ai-systems-concepts)
-- [multi-modal-patient-data-routing-workflow](https://github.com/mohammed-elbahja/multi-modal-patient-data-routing-workflow) Upcoming Initiative | will be built on top of [agentic-ai-systems-concepts](https://github.com/mohammed-elbahja/agentic-ai-systems-concepts)
+- [Patient Diagnostic Assistant](https://github.com/mohammed-elbahja/patient-diagnostic-assistant)  
+A modular and event-driven **Agentic AI system** implementing the **Prompts Chaining Workflow** concept. It extracts clinical insights from unstructured patient notes, generates interpretable diagnostic, and treatment recommendations. It demonstrates how structured orchestration, real-time pipelines, and LLM interactions can collaborate for interpretable healthcare decision-making.
+- [automated-care-plan-generator](https://github.com/mohammed-elbahja/automated-care-plan-generator) - Upcoming Initiative  
+AI-driven implementation of the **Orchestrator-Workers Workflow concept**. A multi-agent architecture where a central Orchestrator decomposes complex patient-care tasks into specialized subtasks. Each Worker—responsible for summarizing medical history, analyzing lab trends, retrieving clinical guidelines, or simulating treatment outcomes in parallel. The Orchestrator aggregates these results in near real time to synthesize a personalized care plan.  
+Will be built on top of [agentic-ai-systems-concepts](https://github.com/mohammed-elbahja/agentic-ai-systems-concepts)
+- [medication-recommendation-optimizer](https://github.com/mohammed-elbahja/medication-recommendation-optimizer) - Upcoming Initiative  
+AI-driven implementation of the **Evaluator-Optimizer Workflow concept**. Continuous learning/feedback loop for safer, smarter medication picks. One AI “Optimizer” proposes a drug plan for a patient. A second AI “Evaluator” immediately checks that plan against rules and knowledge (drug–drug interactions, allergies, guideline hints, ..). The Evaluator scores what’s risky or sub-optimal and feeds that critique back. The Optimizer adjusts and tries again. This repeats until the plan meets safety and quality thresholds, then it’s published.  
+Will be built on top of [agentic-ai-systems-concepts](https://github.com/mohammed-elbahja/agentic-ai-systems-concepts)
+- [predictive-monitoring-of-vital-signs](https://github.com/mohammed-elbahja/predictive-monitoring-of-vital-signs) - Upcoming Initiative  
+AI-driven implementation of the **Parallelization Workflow**. The system intelligently monitors patients’ vital signs as they stream in. Instead of processing data through a single sequential model, it distributes the workload across multiple specialized AI agents that operate in parallel. Each agent focuses on a specific task like anomaly detection, forecasting, or contextual correlation. This design dramatically reduces latency and improves responsiveness in real-time predictions.  
+Will be built on top of [agentic-ai-systems-concepts](https://github.com/mohammed-elbahja/agentic-ai-systems-concepts)
+- [multi-modal-patient-data-routing-workflow](https://github.com/mohammed-elbahja/multi-modal-patient-data-routing-workflow) - Upcoming Initiative  
+AI-driven implementation of The **Routing Workflow concept**. It intelligently receives different types of patient data “modalities” such as structured lab readings, medical imaging, and unstructured clinical notes and automatically routes each to the most suitable downstream AI model or processing pipeline. Each modality requires a different type of model and different preprocessing logic. A multi-modal router sits between the sources and the specialized models.  
+Will be built on top of [agentic-ai-systems-concepts](https://github.com/mohammed-elbahja/agentic-ai-systems-concepts)
 
 ### Misc
-- [configuration-rs](https://github.com/mohammed-elbahja/configuration-rs) - A Rust-native configuration library inspired by Lightbend Config
+- [configuration-rs](https://github.com/mohammed-elbahja/configuration-rs)  
+A Rust-native configuration library inspired by Lightbend Config
 
 ## Professional Engineering Experience
 **Industrial IoT & Energy Management**
@@ -100,9 +115,17 @@ Available for architecture and implementation reviews, technical demonstrations,
 </p>
 
 # References & Acknowledgements
+My engineering initiatives draw inspiration from established software and systems engineering principles, academic research, technical publications, reference architectures, and the collective contributions of the open-source community.
 
-Technology icons by <a href="https://github.com/devicons/devicon" target="_blank">Devicon</a>  
+### Engineering Standards & Communities
+- [Apache Software Foundation](https://www.apache.org/)  
+
+### Open Source Projects
+- [Apache Pekko](https://pekko.apache.org)  
+- [Apache Flink](https://flink.apache.org)  
+- [Apache Kafka](https://kafka.apache.org)  
+- [Lightbend Config](https://github.com/lightbend/config)  
+
+- [Devicon - Technology icons](https://github.com/devicons/devicon)  
+
 Logos are trademarks of their respective owners.
-
----
-[LinkedIn](https://www.linkedin.com/in/melbahja/) | [GitHub](https://github.com/mohammed-elbahja)
